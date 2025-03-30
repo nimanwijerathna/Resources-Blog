@@ -1,0 +1,78 @@
+[
+    {
+      "title": "Kaggle",
+      "image": "https://www.kaggle.com/static/images/site-logo.svg",
+      "description": "Kaggle is the world’s largest data science community with powerful tools and resources to help you achieve your data science goals.",
+      "link": "https://www.kaggle.com/",
+      "category": "Other"
+    },
+    {
+        "title": "Uiverse",
+        "image": "https://uiverse.io/assets/logo-png-BXFOQKfc.png",
+        "description": "The universe of UI.",
+        "link": "https://uiverse.io/",
+        "category": "Other"
+      },
+
+
+    {
+        "title": "NotebookLM",
+        "image": "https://notebooklm.google.com/_/static/branding/v5/dark_mode/notebook-logo.svg",
+        "description": "NotebookLM is an AI-powered research and writing assistant that works best with the sources you upload",
+        "link": "https://notebooklm.google.com/?_gl=1*1ypzhkh*_ga*MTUyOTQ1NzgxNy4xNzQzMjYzNjM0*_ga_W0LDH41ZCB*MTc0MzI2MzYzMy4xLjEuMTc0MzI2MzY0Mi41MS4wLjA.&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1",
+        "category": "AI"
+      },
+
+
+    {
+      "title": "Deep Learning AI",
+      "image": "https://dl-staging-website.ghost.io/content/images/2021/04/LogoFiles_DeepLearning_PrimaryLogo.png",
+      "description": "DeepLearning.AI | Join over 7 million people learning how to use and build AI through our online courses.",
+      "link": "https://www.deeplearning.ai/",
+      "category": "Learning"
+    },
+    {
+      "title": "LetsUpgrade",
+      "image": "https://letsupgrade.in/_next/image?url=%2Ficon-black.png&w=1920&q=75",
+      "description": "LetsUpgrade.in is India's largest higher education learning community for students enrolled in Indian degree programs.",
+      "link": "https://letsupgrade.in/dashboard",
+      "category": "Learning"
+    },
+    {
+        "title": "Oxford Home Study Centre",
+        "image": "https://www.oxfordhomestudy.com/images/thesitelogo.webp",
+        "description": "Oxford Home Study Centre offers AI courses online for free, providing access to cutting-edge AI education from anywhere in the world.",
+        "link": "https://www.oxfordhomestudy.com/courses/ai-courses-online/ai-courses-online-free",
+        "category": "Learning"
+    },
+    {
+        "title": "HP Life",
+        "image": "https://www.life-global.org/_next/static/media/brand-logo-header.53910d1b.svg",
+        "description": "HP LIFE is a free business skills training program. It can be accessed online via the HP LIFE platform, in-person through our partners, and both online and offline with the HP LIFE app.",
+        "link": "https://www.life-global.org/",
+        "category": "Learning"
+    },
+    {
+        "title": "AWS training and certification",
+        "image": "https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/themes/580f907c115b192b6491f420daf147e12309114f.png?enhanced_signature=9RfgWdEvGpD-s4admx0EPK1w_l-D8EXKOh10OdsNsQo",
+        "description": "Build your AWS Cloud Skills with AWS Training and Certification. Learn AWS online with free digital training, in-person classroom training, virtual classroom training, and private on-site and virtual training.",
+        "link": "https://skillbuilder.aws/",
+        "category": "Learning"
+    },
+    {
+        "title": "The Cisco Learning Network",
+        "image": "https://learningnetwork.cisco.com/resource/1701841064000/peakLightning/images/Cisco-Logo.svg",
+        "description": "The Cisco Learning Network supports your Cisco Certifications and lifelong learning goals. Join community members in our certification forums, access key exam resources, study with free IT training videos and webinars, and more.",
+        "link": "https://learningnetwork.cisco.com/s/",
+        "category": "Learning"
+    },
+    {
+        "title": "The Open University",
+        "image": "https://th.bing.com/th/id/OIP.2lK07cRKyzK8vqLJQqDolAAAAA?pid=ImgDet&w=100&h=100&c=7",
+        "description": "The home of free learning from The Open University. Are you looking for a new topic to explore, or wanting to dig deeper into something you've already discovered? you will find it on OpenLearn for free.",
+        "link": "https://www.open.edu/openlearn/free-courses/full-catalogue",
+        "category": "Learning"
+    }
+
+  ]
+  
