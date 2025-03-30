@@ -156,6 +156,23 @@ h1 {
     }
 }
 
+footer{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+    color: #555;
+}
+footer a {
+    color: #007BFF;
+    text-decoration: none;
+}   
+
 /* Responsive Design */
 @media (max-width: 1024px) {
     .blog-card {
@@ -185,6 +202,10 @@ h1 {
     .branding-slider img {
         height: 12px;
     }
+
+    footer p {   
+        font-size: 12px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -196,5 +217,9 @@ h1 {
 
     .branding-slider img {
         height: 10px;
+    }
+
+    footer p {
+        font-size: 10px;
     }
 }
