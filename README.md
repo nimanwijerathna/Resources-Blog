@@ -9,7 +9,7 @@ A simple and dynamic **blog page** that displays learning resources using **Java
 - 🌐 **GitHub Pages Hosting**: Easily accessible and publicly available.
 
 ## 🚀 Live Demo
-🔗 [View the Blog](https://nimanwijerathna.io/resources-blog/)
+🔗 [View the Blog](https://nimanwijerathna.github.io/Resources-Blog/)
 
 ## 📂 Project Structure
 - `index.html`: Main HTML file.
