@@ -18,7 +18,7 @@ A simple and dynamic **blog page** that displays learning resources using **Java
 - `resources.json`: JSON file containing blog post data.
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
