@@ -4,9 +4,10 @@ fetch('blogs.json')
         let learningContainer = document.getElementById("learning-slider");
         let otherContainer = document.getElementById("other-slider");
         let aiContainer = document.getElementById("ai-slider");
+        let booksContainer = document.getElementById("books-slider");
 
         // Wrap the containers in slider wrappers and add navigation buttons
-        [learningContainer, otherContainer, aiContainer].forEach(container => {
+        [learningContainer, otherContainer, aiContainer, booksContainer].forEach(container => {
             const sliderWrapper = document.createElement("div");
             sliderWrapper.classList.add("slider-wrapper");
             container.parentNode.insertBefore(sliderWrapper, container);
@@ -14,21 +15,21 @@ fetch('blogs.json')
 
             const leftButton = document.createElement("button");
             leftButton.classList.add("slider-btn", "slider-btn-left");
-            leftButton.innerHTML = "&#9664;"; // Left arrow
+            leftButton.innerHTML = "&#9664;"; 
             sliderWrapper.appendChild(leftButton);
 
             const rightButton = document.createElement("button");
             rightButton.classList.add("slider-btn", "slider-btn-right");
-            rightButton.innerHTML = "&#9654;"; // Right arrow
+            rightButton.innerHTML = "&#9654;"; 
             sliderWrapper.appendChild(rightButton);
 
             // Add button functionality
             leftButton.addEventListener("click", () => {
-                container.scrollLeft -= container.offsetWidth; // Scroll left by the container width
+                container.scrollLeft -= container.offsetWidth;  
             });
 
             rightButton.addEventListener("click", () => {
-                container.scrollLeft += container.offsetWidth; // Scroll right by the container width
+                container.scrollLeft += container.offsetWidth; 
             });
 
             // Add smooth scrolling
@@ -50,6 +51,8 @@ fetch('blogs.json')
                 learningContainer.innerHTML += blogCard;
             } else if(blog.category === "Other"){
                 otherContainer.innerHTML += blogCard;
+            } else if(blog.category === "Books"){
+                booksContainer.innerHTML += blogCard;
             }else {
                 aiContainer.innerHTML += blogCard;
             }

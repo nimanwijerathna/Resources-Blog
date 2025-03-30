@@ -12,7 +12,15 @@
         "description": "The universe of UI.",
         "link": "https://uiverse.io/",
         "category": "Other"
-      },
+    },
+
+    {
+        "title": "Programming Notes for Professionals books",
+        "image": "https://th.bing.com/th/id/OIP.NoCv2ROQj1XPKg1LybB1wAHaHa?w=170&h=180&c=7&r=0&o=5&pid=1.7",
+        "description": "Free Programming Notes for Professionals books, which are free and cover a wide range of programming topics.",
+        "link": "https://books.goalkicker.com/",
+        "category": "Books"
+    },
 
 
     {
