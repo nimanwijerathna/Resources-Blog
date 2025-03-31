@@ -46,6 +46,13 @@
       "category": "Learning"
     },
     {
+      "title": "Udemy",
+      "image": "https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg",
+      "description": "Shop thousands of high-quality on-demand online courses. Start learning today. Find the right instructor for you. Choose from many topics, skill levels, and languages.",
+      "link": "https://www.udemy.com/courses/search/?src=ukw&q=free",
+      "category": "Learning"
+    },
+    {
       "title": "Lets Upgrade",
       "image": "https://letsupgrade.in/_next/image?url=%2Ficon-black.png&w=1920&q=75",
       "description": "LetsUpgrade.in is India's largest higher education learning community for students enrolled in Indian degree programs.",
@@ -58,6 +65,13 @@
         "description": "Oxford Home Study Centre offers AI courses online for free, providing access to cutting-edge AI education from anywhere in the world.",
         "link": "https://www.oxfordhomestudy.com/courses/ai-courses-online/ai-courses-online-free",
         "category": "Learning"
+    },
+    {
+      "title": "LeetCode",
+      "image": "https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png",
+      "description": "LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.",
+      "link": "https://leetcode.com/",
+      "category": "Learning"
     },
     {
         "title": "HP Life",
@@ -87,6 +101,5 @@
         "link": "https://www.open.edu/openlearn/free-courses/full-catalogue",
         "category": "Learning"
     }
-
   ]
   

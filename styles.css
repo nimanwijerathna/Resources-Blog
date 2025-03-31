@@ -254,6 +254,10 @@ footer a {
     .branding-slider img {
         height: 15px;
     }
+
+    .search-input {
+        width: 450px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -273,6 +277,10 @@ footer a {
     .branding-slider img {
         height: 12px;
     }
+
+    .search-input {
+        width: 220px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -288,5 +296,9 @@ footer a {
 
     footer p {
         font-size: 10px;
+    }
+
+    .search-input {
+        width: 200px;
     }
 }
