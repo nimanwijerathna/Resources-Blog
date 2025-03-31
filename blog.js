@@ -67,3 +67,24 @@ fetch('blogs.json')
         // Clone the branding images to create an infinite loop
         const clone = slider.cloneNode(true);
     });
+
+    document.getElementById("search-input").addEventListener("input", performSearch);
+
+    function performSearch() {
+        const query = document.getElementById("search-input").value.toLowerCase();
+        const sections = document.querySelectorAll("h1[id]");
+    
+        sections.forEach(section => {
+            const sectionText = section.textContent.toLowerCase();
+            const parentContainer = section.nextElementSibling; 
+    
+            if (sectionText.includes(query) || (parentContainer && parentContainer.innerHTML.toLowerCase().includes(query))) {
+                section.style.display = "block";
+                if (parentContainer) parentContainer.style.display = "flex"; 
+            } else {
+                section.style.display = "none";
+                if (parentContainer) parentContainer.style.display = "none";
+            }
+        });
+    }
+    

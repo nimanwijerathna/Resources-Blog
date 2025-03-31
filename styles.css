@@ -18,6 +18,76 @@ h1 {
     padding: 10px;
 }
 
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo-container {
+    margin: 25px 0 25px 0;
+    display: flex;
+    align-items: center; 
+    gap: 10px;
+    flex-direction: row; 
+}
+
+.logo-container img {
+    width: 60px;
+    height: 60px;
+    display: block; /* Prevents extra space below the image */
+}
+
+.logo-container h1 {
+    font-size: 1rem;
+    color: #333;
+    font-weight: 600;
+    margin: 0; 
+    line-height: 1; 
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #555;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar a:hover {
+    background-color: #00ca6c;
+    color: #fff;
+}
+
+/* Search Container */
+.search-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-input {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    width: 300px;
+}
+
 .slider-container {
     width: 94%;
     margin: 0 auto;

@@ -9,11 +9,17 @@
     {
         "title": "Uiverse",
         "image": "https://uiverse.io/assets/logo-png-BXFOQKfc.png",
-        "description": "The universe of UI.",
+        "description": "Community-made library of free and customizable UI elements made with CSS or Tailwind. It's all free to copy and use in your projects.",
         "link": "https://uiverse.io/",
         "category": "Other"
     },
-
+    {
+      "title": "Swiper",
+      "image": "https://swiperjs.com/images/swiper-logo.svg",
+      "description": "Swiper.js is a powerful JavaScript library designed to create touch-enabled sliders, carousels, and galleries. It is widely used in both web and mobile applications to provide a smooth and engaging user experience.",
+      "link": "https://swiperjs.com/demos",
+      "category": "Other"
+    },
     {
         "title": "Programming Notes for Professionals books",
         "image": "https://th.bing.com/th/id/OIP.NoCv2ROQj1XPKg1LybB1wAHaHa?w=170&h=180&c=7&r=0&o=5&pid=1.7",
