@@ -28,6 +28,13 @@
       "category": "Other"
     },
     {
+      "title": "Developer Roadmaps",
+      "image": "https://roadmap.sh/images/gifs/rocket.gif",
+      "description": "Did you know that organizations such as freeCodeCamp, Google, and Harvard offer online courses to help you learn software development? And that many of these include free certificates and badges?",
+      "link": "https://roadmap.sh/",
+      "category": "Other"
+    },
+    {
         "title": "Programming Notes for Professionals books",
         "image": "https://th.bing.com/th/id/OIP.NoCv2ROQj1XPKg1LybB1wAHaHa?w=170&h=180&c=7&r=0&o=5&pid=1.7",
         "description": "Free Programming Notes for Professionals books, which are free and cover a wide range of programming topics.",
